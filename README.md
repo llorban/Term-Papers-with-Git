@@ -4,3 +4,7 @@
 </div>
 Written assessments using revision control and milestone based assessment systems.
 
+## Folder guide
+
+### live
+* instructions that have been implemented in courses and are being used live
