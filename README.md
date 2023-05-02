@@ -6,5 +6,8 @@ Written assessments using revision control and milestone based assessment system
 
 ## Folder guide
 
-### live
+### /live/
 * instructions that have been implemented in courses and are being used live
+
+### /media/
+* media assets used in documentation in this repository
